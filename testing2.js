@@ -28,7 +28,6 @@ printYearInfo(1998);
 printYearInfo(2036);
 
 
-<p id="demo"></p>
 
 </body>
 </html> 
